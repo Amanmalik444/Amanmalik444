@@ -1,8 +1,8 @@
 Hi there 👋
 
- <font size="5"> I'm Aman malik </font>
+ <h1> I'm Aman malik </h1>
 
-- 🔭 I’m work on MERN stack
+- 🔭 I work on MERN stack
 - 🌱 I’m currently learning Backend development
 - 👯 I’m looking for a paid Internship
 - 📫 How to reach me: ... 	/twitter/follow/:Amanmalik77?label=Follow
