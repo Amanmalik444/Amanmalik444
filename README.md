@@ -1,4 +1,4 @@
-<h6> Hello world! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="17px"></h6>
+<h6> Hello world! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="15px"></h6>
 
  <h1> I'm Aman malik </h1>
 
