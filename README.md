@@ -18,7 +18,7 @@ src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbcc
 </p> <br>
 
 <a href="https://github.com/Amanmalik444/">
-<img height="50" src="https://github-readme-stats.vercel.app/api?username=Amanmalik444&count_private=true&hide=issues">
+<img height="500" src="https://github-readme-stats.vercel.app/api?username=Amanmalik444&count_private=true&hide=issues">
 
-<img height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanmalik444&layout=compact">
+<img height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanmalik444&layout=compact">
 </a>
