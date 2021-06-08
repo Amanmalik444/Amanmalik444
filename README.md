@@ -7,6 +7,8 @@ Hi there 👋
 - 👯 I’m looking for a paid Internship
 - 📫 How to reach me: <a href="https://twitter.com/Amanmalik77"> Click here </a>
 
+<a href="https://github.com/Amanmalik444/">
 <img src="https://github-readme-stats.vercel.app/api?username=Amanmalik444&hide=contribs,prs)](https://github.com/Amanmalik444/github-readme-stats)" style="width:50%;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanmalik444&layout=compact)](https://github.com/Amanmalik444/github-readme-stats)"  style="width:50%;">
+</a>
