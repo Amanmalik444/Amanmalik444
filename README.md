@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Backend development
 - 👯 I’m looking for a paid Internship or a Freelancing project
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 	/twitter/follow/:Amanmalik77?label=Follow
 - ⚡ Fun fact: ...
 -->
 
