@@ -1,5 +1,6 @@
 Hi there 👋
-I'm Aman malik
+
+ <font size="5"> I'm Aman malik </font>
 
 - 🔭 I’m work on MERN stack
 - 🌱 I’m currently learning Backend development
