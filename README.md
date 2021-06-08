@@ -18,7 +18,7 @@ src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbcc
 </p> <br>
 
 
-<div width="10">
+<div style="display:none;">
 <a href="https://github.com/Amanmalik444/">
 <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api?username=Amanmalik444&count_private=true">
 
