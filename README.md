@@ -4,7 +4,6 @@
 
 - 🔭 I work on MERN stack
 - 🌱 I’m currently learning Backend development
-- 👨‍💻 I’m looking for a paid Internship
 
 
 <h3>Contact me on : </h3> 
