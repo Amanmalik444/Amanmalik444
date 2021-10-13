@@ -3,7 +3,7 @@
  <h1> I'm Aman malik </h1>
 
 - 🔭 I work on MERN stack
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently learning React Native
 
 
 <h3>Contact me on : </h3> 
