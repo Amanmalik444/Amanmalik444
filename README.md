@@ -2,8 +2,8 @@
 
  <h1> I'm Aman malik </h1>
 
-- 🔭 I work on MERN stack.
-- 🌱 I’m currently learning to write more scalable and efficient code.
+- 🔭 I work on MERN stack, React native.
+- 🌱 Tech lead, M16Labs.
 
 
 <h3>Contact me on : </h3> 
