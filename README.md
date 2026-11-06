@@ -11,4 +11,4 @@ Sr. Software Engineer at M16 Labs, Bangalore. Frontend-focused full stack: I bui
 
 Client work lives in private repos; what's here is side projects.
 
-[LinkedIn](https://www.linkedin.com/in/amanmalik444/) · [X](https://x.com/Amanmalik77)
+[LinkedIn](https://www.linkedin.com/in/amanmalik444/) 
